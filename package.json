@@ -2,7 +2,7 @@
   "name": "met-website",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://gitname.github.io/react-gh-pages",
+  "homepage": "https://metaurus-solutions-llc.github.io/met-website",
   "type": "module",
   "scripts": {
     "predeploy": "npm run build",
