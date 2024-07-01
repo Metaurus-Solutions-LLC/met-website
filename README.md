@@ -1,4 +1,4 @@
-# mts-website
+# met-website
 Website for Metaurus Solutions, LLC
 
 # [Metaurus Solutions Website](./index.html)
@@ -28,8 +28,8 @@ This website is the main website for Metaurus Solutions, LLC.
 ## API:
 
 ## Links:
-  - [Metaurus Solutions Website Repo](https://github.com/Metaurus-Solutions-LLC/mts-website)
-  - [Github Scrum Board](https://github.com/Metaurus-Solutions-LLC/mts-website/projects/1)
+  - [Metaurus Solutions Website Repo](https://github.com/Metaurus-Solutions-LLC/met-website)
+  - [Github Scrum Board](https://github.com/Metaurus-Solutions-LLC/met-website/projects/1)
   - [Metaurus Solutions Website](https://metaurus-solutions.com)
 
 ## JS library:
